@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Soultana</string>
+    <string name="Soultana_restaurant">مطعم سلطانة</string>
+    <string name="disc">
+مطعم سلطانة هو واحد من أكبر وأقدم المطاعم في أسيوط ، ويقدم الكثير من الوجبات ، ويوفر خدمة التوصيل إلى المنازل.</string>
+    <string name="address">بجوار مدرسة الجلاء الاعدادية, شارع 26 يوليو</string>
+    <string name="comment">اكتب تعليق هنا!</string>
+
+</resources>

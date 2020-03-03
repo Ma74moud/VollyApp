@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">سلطانة</string>
+    <string name="Soultana_restaurant" translatable="false">Soultana Restaurant</string>
+    <string name="disc" translatable="false">Sultana Restaurant is one of the largest and oldest restaurants in Assiut, and it serves a lot of meals, and it has home delivery service.</string>
+    <string name="address" translatable="false">Beside Al Jalaa Preparatory School, 26th of July Street</string>
+    <string name="comment">write your coment here!</string>
+</resources>
